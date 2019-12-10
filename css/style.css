@@ -1,0 +1,48 @@
+.header{
+	margin-top: 0;
+	margin-bottom: 0;
+	min-height: 60px;
+	background-color: red;
+	border: 1px solid black;
+}
+.h1{
+	text-align: center;
+}
+.wrapper{
+	border: 2px solid #000;
+	overflow: hidden;
+}
+#text{
+	min-height: 150px;
+	margin-top: 0;
+	margin-bottom: 0;
+	border: 1px solid pink;
+	color: black;
+	text-align: center;
+	padding-top: 200px;
+	background-color: green;
+	width:61.04%;
+	float: left;
+}
+#text1{
+	min-height: 150px;
+	margin-top: 0;
+	margin-bottom: 0;
+	border: 1px solid yellow;
+	color: black;
+	text-align: center;
+	padding-top: 200px;
+	background-color: blue;
+	width: 38.4%
+	float: right;
+}
+.footer{
+	margin-top: 0px;
+	min-height: 40px;
+	background-color: yellow;
+	border: 1px solid red;
+}
+#text3{
+	text-align: center;
+	padding-top: 10px;
+}
